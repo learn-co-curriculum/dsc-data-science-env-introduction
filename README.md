@@ -16,9 +16,9 @@ You will be able to:
 - **Jupyter Notebook** - Most of those data scientists use Jupyter Notebook for writing their Python code. Jupyter Notebook is a tool that allows you to mix comments in-between your code snippets so you can document and share your thought process and make it easier for others to review, replicate, and expand on your work. It's also what we're using for almost all of our lessons in this course!
 - **Anaconda** - Anaconda is one of the most popular ways for data scientists to install Python and Jupyter on their computers. It also provides package management and virtual environments so you can get all the latest data science tools running, like NumPy, Scikit-Learn, and Tensorflow, and so you can use different versions of Python and your packages for different projects without them conflicting with each other.
 - **Git** - Git is a version control system. It’s a way of keeping track of all the changes made across your project. Think of it like “track changes” in Word - but with the ability to track changes across multiple documents. At Flatiron School, we use Git to keep track of all of the lessons we create and all the changes we make to them.
-- **GitHub** - GitHub is a website where data scientists (and programmers) can save their work in case their computer breaks, and share it with their team or the world! At Flatiron School, we store all of our lessons on GitHub.
+- **GitHub** - GitHub is a website where data scientists (and programmers) can save their work in case their computer breaks, and share it with their team or the world. At Flatiron School, we store all of our lessons on GitHub.
 
-It’s going to take us a few minutes to get this all installed, but once we do, not only will you be set-up for working through the course, but you’ll also have a professional data science setup on your computer for any future courses or projects you want to work on!
+It’s going to take us a few minutes to get this all installed, but once we do, not only will you be set-up for working through the course, but you’ll also have a professional data science setup on your computer for any future courses or projects you want to work on.
 
 ## Computer Prerequisites
 
@@ -28,4 +28,4 @@ You’re going to need a computer (laptop or desktop). It should be running a re
 
 ## Summary
 
-In the next few lessons, you'll install and configure some of the primary tools that you'll use as a data scientist! 
+In the next few lessons, you'll install and configure some of the primary tools that you'll use as a data scientist.
